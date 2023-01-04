@@ -552,7 +552,7 @@ const buildInfo = {
     versionNumber: "0.1.0",
     versionName: "nightly 2023-01-04",
     versionChannel: "nightly",
-    buildDate: "2023-01-04T18:05:52.795Z",
+    buildDate: "2023-01-04T18:09:51.879Z",
     commitHash: "fce005b7b1234fc79bbcea550f769c8edca735bf",
 };
 
@@ -4421,7 +4421,7 @@ class Version {
   \******************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "c2a6e649f3829bc6b2b8.wasm";
+module.exports = __webpack_require__.p + "05d15ffe35b2047e1f5c.wasm";
 
 /***/ }),
 
@@ -4431,7 +4431,7 @@ module.exports = __webpack_require__.p + "c2a6e649f3829bc6b2b8.wasm";
   \**************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "c2a6e649f3829bc6b2b8.wasm";
+module.exports = __webpack_require__.p + "05d15ffe35b2047e1f5c.wasm";
 
 /***/ })
 
