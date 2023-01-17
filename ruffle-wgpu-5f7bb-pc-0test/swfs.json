@@ -3,6 +3,10 @@
     {
       "title": "logo",
       "location": "logo-anim.swf"
+    },
+    {
+      "title": "Bejeweled 2",
+      "location": "bejeweled2.swf"
     }
   ]
 }
